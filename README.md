@@ -25,7 +25,7 @@ This smart contract enables users to list, buy, sell, and auction NFTs. It suppo
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/NFT_Marketplace_SmartContract.git
+   git clone https://github.com/Pods_NFTS_Project/NFT_Marketplace_SmartContract.git
    ```
 2. Navigate to the project directory:
    ```bash
